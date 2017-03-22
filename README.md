@@ -17,7 +17,7 @@ links:
 - Somalia
 - Sudan
 
-![Image of github's lion](https://s-media-cache-ak0.pinimg.com/originals/ae/8a/0d/ae8a0dd3fae801a4ce56a38767e864a4.jpg)
+![Image of github's lion](/Images/lion.jpg)
 
 זן             | Specie
 --------------|--------
