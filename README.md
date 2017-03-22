@@ -19,7 +19,7 @@ links:
 
 ![Image of github's lion](/Images/lion.jpg)
 
-זן             | Specie
+זן             | Species
 --------------|--------
 אריה ברברי     | Barbary lion
 אריה אסייתי    | Asiatic lion
