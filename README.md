@@ -1,7 +1,6 @@
 # About the animal: Lion
 
 links:
-
 [1]: https://www.worldwildlife.org/blogs/good-nature-travel/posts/ten-interesting-facts-about-lions
 [2]: http://www.lionaid.org/news/2016/02/how-many-lions-in-africa.htm
 
