@@ -1,10 +1,10 @@
-# About the animal: Lion
+# About: Lions
 
-links:
-[1]: https://www.worldwildlife.org/blogs/good-nature-travel/posts/ten-interesting-facts-about-lions
-[2]: http://www.lionaid.org/news/2016/02/how-many-lions-in-africa.htm
+[Info](https://www.worldwildlife.org/blogs/good-nature-travel/posts/ten-interesting-facts-about-lions)
 
-## Important to know:
+[More Info](http://www.lionaid.org/news/2016/02/how-many-lions-in-africa.htm)
+
+## Important facts:
 
 1.  A lion can run for short distances at 50 mph and leap as far as 36 feet.
 2.  A lion’s roar can be heard from as far as 5 miles away.
